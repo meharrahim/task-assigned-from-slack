@@ -1,6 +1,6 @@
 apiclient==1.0.3
 Django==1.11
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 google-api-python-client==1.7.3
 google-auth-httplib2==0.0.3
 httplib2==0.11.3
