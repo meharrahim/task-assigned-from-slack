@@ -3,7 +3,7 @@ Django==1.11.23
 djangorestframework==3.9.1
 google-api-python-client==1.7.3
 google-auth-httplib2==0.0.3
-httplib2==0.11.3
+httplib2==0.18.0
 jsonpickle==0.9.6
 oauth2client==4.1.2
 requests==2.20.0
