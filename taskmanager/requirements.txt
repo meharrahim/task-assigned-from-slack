@@ -8,5 +8,5 @@ jsonpickle==0.9.6
 oauth2client==4.1.2
 requests==2.20.0
 slackclient==1.2.1
-urllib3==1.24.2
+urllib3==1.26.5
 websocket-client==0.48.0
