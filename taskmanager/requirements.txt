@@ -1,5 +1,5 @@
 apiclient==1.0.3
-Django==1.11.23
+Django==2.2.24
 djangorestframework==3.9.1
 google-api-python-client==1.7.3
 google-auth-httplib2==0.0.3
